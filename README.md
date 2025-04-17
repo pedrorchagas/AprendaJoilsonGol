@@ -28,11 +28,12 @@ O material está divido em tópicos para facilitar a leitura.
     - 3.5 - [**Operadores de comparação**](Operadores/Operadores.md#35-operadores-de-comparação)
     - 3.6 - [**Operadores lógicos**](Operadores/Operadores.md#36-operadores-lógicos)
 - 4 - [**Se e Senão**](Se_e_Senao/Se_e_Senao.md)
-    - 4 - [**Se e Senão**](Se_e_Senao/Se_e_Senao.md)
-    - 4 - [**Se e Senão**](Se_e_Senao/Se_e_Senao.md)
-    - 4 - [**Se e Senão**](Se_e_Senao/Se_e_Senao.md)
-    - 4 - [**Se e Senão**](Se_e_Senao/Se_e_Senao.md)
-    - 4 - [**Se e Senão**](Se_e_Senao/Se_e_Senao.md)
+    - 4.1 - [**O que é uma condicional**](Se_e_Senao/Se_e_Senao.md#41-o-que-é-uma-condicional)
+    - 4.2 - [**Fluxo**](Se_e_Senao/Se_e_Senao.md#42-fluxo)
+    - 4.3 - [**Estrutura do SE**](Se_e_Senao/Se_e_Senao.md#43-estrutura-do-se)
+    - 4.4 - [**Exemplo de algoritmo utilizando SE**](Se_e_Senao/Se_e_Senao.md#44-exemplo-de-algoritmo-utilizando-se)
+    - 4.5 - [**SE aninhado**](Se_e_Senao/Se_e_Senao.md#45-se-aninhado)
+    - 4.5 - [**Exemplo de SE aninhado**](Se_e_Senao/Se_e_Senao.md#46-exemplo-de-se-aninhado)
 - 5 - [**Escolha**](Escolha/Escolha.md)
 
 # Dicas de estudos
