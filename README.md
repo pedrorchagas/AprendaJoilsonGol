@@ -43,7 +43,7 @@ Aprender algoritmos pode ser um pouco cansativo e difícil, mas no final com tod
 ## Curso de algoritmo do Curso Em Video
 Caso você esteja iniciando do zero, nos recomendamos você dar uma olhada nesse curso de algoritmo do Curso Em Vídeo, pois a didática deles é bastante legal e simples. Tome cuidado, pois o JoilsonGol é um pouco diferente e nas provas e atividades é cobrado a forma que é ensinada em sala.
 
-[![Algoritmos Curso Em Vídeo](https://img.youtube.com/vi/8mei6uVttho?si=Q1a1hQ1MaKb0AyLo/hqdefault.jpg)](https://www.youtube.com/watch?v=8mei6uVttho?si=Q1a1hQ1MaKb0AyLo) 
+[![Algoritmos Curso Em Vídeo](https://img.youtube.com/vi/8mei6uVttho/hqdefault.jpg)](https://www.youtube.com/watch?v=8mei6uVttho?si=Q1a1hQ1MaKb0AyLo) 
 
 ## FAÇA AS ATIVIDADES!!!
 Não tem forma melhor para aprender do que colocar a cabeça para pensar, então se você está com dúvidas eu recomendo que você tente ao máximo fazer sozinho (faça mesmo errando) e depois tire dúvidas com o professor ou outros alunos.
