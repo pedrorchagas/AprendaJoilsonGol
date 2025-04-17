@@ -17,7 +17,7 @@ Os tipos primitivos são:
 - **logico**: armazena apenas a informação **verdadeira** ou **falsa**;
 - **caractere**: armazena caracteres (letras), ex: nome de uma pessoa.
 
-### 2.4 Declaração de Variáveis
+### 2.3 Declaração de Variáveis
 Antes de usarmos uma variável em nosso programa devemos dizer para o computador para "criar" uma gaveta do tipo que precisamos na memória do computador.
 
 Para fazermos isso é muito simples, basta escrever o tipo da variável e o nome que queremos atribuir para ela.
@@ -42,10 +42,10 @@ _(Se for composta, ficará em maiúsculo a inicial de cada palavra)_;
 - **Seja claro**: Não use nomes genéricos, pois dificulta o entendimento do código;
 - **Nome único**: O nome da variável deve ser unico para evitar conflitos.
 
-### 2.5 Manipulação de variáveis
+### 2.4 Manipulação de variáveis
 As variáveis são algo muito importante, pois com elas podemos "brincar" com as informações que são guardadas nelas.
 
-#### 2.5.1 Determinação do valor
+#### 2.4.1 Determinação do valor
 Utilizamos o sinal `<-` _(setinha)_ para atribuir um valor para a variável.
 
 > Exemplo:
@@ -69,7 +69,7 @@ fim.
 ```
 > Neste exemplo, estamos definindo o o valor `2025` para a variável `AnoAtual`
 
-#### 2.5.2 Moficação de valor da variável
+#### 2.4.2 Moficação de valor da variável
 Durante a execução do programa podemos alterar o valor da variável quantas vezes quisermos.
 
 > Exemplo:
@@ -87,7 +87,7 @@ fim.
 ```
 > Neste exemplo definimos a variável `SaldoBancario` e alteramos o valor dentro da _"gaveta"_ dessa variável toda vez que utilizamos o operador de definição `<-`. portanto, ao usar a funcão `escreva(SaldoBancario)` o programa irá escrever o valor `99080.01` que é o mesmo valor definido por ultimo.
 
-#### 2.5.3 Operações com variáveis
+#### 2.4.3 Operações com variáveis
 Assim como na matemática podemos usar as variáveis dentro de formulas, como funções do primeiro grau. E com essa funcionalidade podemos criar programas que processam diversos dados de entrada para mostrar na saida.
 
 Para demonstrar essa funcionalidade iremos criar um programa que multiplica qualquer entrada por 2.
@@ -164,4 +164,3 @@ inicio
 fim.
 ```
 > Neste exemplo mais complexo podemos ver que declaramos duas variáveis ao mesmo tempo, `AnoNascimento` e `IdadeAtual`, podemos fazer isso para quantas variáveis do mesmo tipo.
-

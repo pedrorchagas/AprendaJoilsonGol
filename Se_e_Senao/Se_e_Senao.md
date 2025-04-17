@@ -39,7 +39,7 @@ FIMSE
 
 Para a estrutura condicional o SENAO não é obrigatório, a casos que só há uma opção de execução, onde não é necessário um SENAO. Nesses casos quando não entra no SE, o algoritmo não faz nada, só continua a execução
 
-### 4.6 Exemplo de algoritmo utilizando SE
+### 4.4 Exemplo de algoritmo utilizando SE
 Sem o SENAO:
 
 ```
@@ -82,10 +82,10 @@ Entrada: 13;
 
 ``Saida``: "É menor de idade"
 
-### 4.7 SE aninhado
+### 4.5 SE aninhado
 Para algoritmos mais complexos, que hajam mais de uma verificação, pode ser necessário que hajam SE's aninhados para que todos os casos sejam verificados. Podemos usar um SE aninhado quando a primeira condição é verdadeira, mas ainda precisamos fazer outra verificação, ou outras. Ou quando a condição é falsa, mas queremos verificar outro ou outros casos antes de decidir o que fazer. É importante lembrar que para cada SE aberto é necessário ter um FIMSE, mesmo os SE's que estão dentro de outros.
 
-### 4.8 Exemplo de SE aninhado
+### 4.6 Exemplo de SE aninhado
 ```
 SE(nota >= 7)
      ENTÃO
